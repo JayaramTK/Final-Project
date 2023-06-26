@@ -1,4 +1,4 @@
-BREAST CANCER PREDICTION using Ensemble Techniques
+BREAST CANCER PREDICTION
 
 Abstract:
 Breast cancer represents one of the diseases that make a high number of deaths every
